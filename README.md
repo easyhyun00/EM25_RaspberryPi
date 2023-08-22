@@ -17,7 +17,6 @@
 ## 👩‍💻 개발멤버
 - [이지현](https://github.com/easyhyun00)
 - [최규진](https://github.com/Gyuddong)
-- 오소민
 
 ## ➗ 역할 분담
 <img src="https://github.com/easyhyun00/EM25_RaspberryPi/assets/98106371/604695b6-df0b-4dad-a8f9-ba840585904a.png"  width="576" height="324"/>
